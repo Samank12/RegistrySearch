@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RegistrySearch": {
+      "commandName": "Project",
+      "commandLineArgs": "-p anydesk"
+    }
+  }
+}
